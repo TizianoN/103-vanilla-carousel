@@ -12,7 +12,7 @@
   height: 80%;
   position: relative;
 
-  /* overflow: hidden; */
+  overflow: hidden;
   border-radius: 15px;
   box-shadow: 0 0 7px 1px #333;
 }

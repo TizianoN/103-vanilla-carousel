@@ -6,6 +6,10 @@ const slides = [
   './img/04.jpg', // INDICE 3
   './img/05.jpg', // INDICE 4
   './img/06.jpg', // INDICE 5
+  './img/07.jpg', // INDICE 6
+  './img/08.jpg', // INDICE 7
+  './img/09.jpg', // INDICE 8
+  './img/10.jpg', // INDICE 9
 ];
 
 // # RECUPERO GLI ELEMENTI DI INTERESSE
